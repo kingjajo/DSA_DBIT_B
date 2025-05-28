@@ -7,7 +7,7 @@ def counting_character(s):
             freq[char] = 1
     return freq
 
-# Example usage
+
 text = "data structures and algorithms"
 frequencies = counting_character(text)
 print(frequencies)
